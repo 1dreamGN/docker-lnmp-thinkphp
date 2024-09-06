@@ -5,17 +5,11 @@
 > 开箱即用(需要安装完成 docker 和 doker-compose)
 
 ```
-
-
-
-
- 打开当前目录:   cd dnmp
+打开当前目录:   cd dnmp
 
 初次运行: docker-compose up
 后台运行: docker-compose up -d
 停止    : docker-compose down
-
-
 ```
 
 > 修改的部分
