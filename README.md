@@ -23,7 +23,7 @@
 **修改部分**
 
 ```
-# ThinkPHP项目放在这个文件夹
-# dnmp/www/localhost/app/public/
-# 详细文档在dnmp/README.md
+# ThinkPHP项目放在这个文件夹 dnmp/www/localhost/
+# 详细文档在dnmp/README.md,在详细文档中可移步原项目地址。
+# 修改伪静态,docker配置模板以及PHP的拓展模块等，增加PHP版本。
 ```
