@@ -23,13 +23,7 @@
 **修改部分**
 
 ```
-# 主要是修改伪静态规则
-#  dnmp/services/nginx/conf.d/localhost.conf
-root   /www/localhost/app/public/;
-
-    index  index.php index.html index.htm;
-    include /www/localhost/app/public/nginx.htaccess;
-    #charset koi8-r;
-
+# ThinkPHP项目放在这个文件夹
+#  dnmp/www/localhost/app/public/
 
 ```
