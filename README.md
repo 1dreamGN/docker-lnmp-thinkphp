@@ -24,6 +24,6 @@
 
 ```
 # ThinkPHP项目放在这个文件夹
-#  dnmp/www/localhost/app/public/
-
+# dnmp/www/localhost/app/public/
+# 详细文档在dnmp/README.md
 ```
