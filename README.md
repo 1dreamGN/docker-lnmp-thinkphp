@@ -1,6 +1,6 @@
 # 基于 docker 的 thinkphp 的 lnmp 运行环境
 
-基于[ DNMP（Docker + Nginx + MySQL + PHP7/5 + Redis）是一款全功能的**LNMP 一键安装程序**],此处适配 thinkphp 可开箱即用!
+基于[ DNMP（Docker + Nginx + MySQL + PHP8/7/5 + Redis）是一款全功能的**LNMP 一键安装程序**],此处适配 thinkphp 可开箱即用!
 
 > 开箱即用(需要安装完成 docker 和 doker-compose)
 
