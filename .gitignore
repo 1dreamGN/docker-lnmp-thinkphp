@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+.env
+nohup.out
+docker-compose.yml
+docker-compose.yml.*
+www/*
+!www/localhost/
+logs/*
+www/localhost/app
+*.tgz
